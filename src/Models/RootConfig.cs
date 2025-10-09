@@ -1,3 +1,5 @@
+namespace SpritesheetCollector.Models;
+
 public record RootConfig
 {
     public string Output_File { get; set; } = "";

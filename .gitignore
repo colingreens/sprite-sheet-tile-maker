@@ -1,3 +1,11 @@
 /.vscode
 /bin
 /obj
+
+src/DefoldTileSource/obj
+src/DefoldTileSource/bin
+src/SpriteTiler/obj
+src/SpriteTiler/bin
+src/Models/obj
+src/Models/bin
+

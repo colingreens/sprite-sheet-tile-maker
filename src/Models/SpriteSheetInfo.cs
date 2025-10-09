@@ -2,6 +2,8 @@ using System.Xml.Serialization;
 using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.PixelFormats;
 
+namespace SpritesheetCollector.Models;
+
 public record SpriteSheetInfo
 {
     public string Path { get; set; } = "";
