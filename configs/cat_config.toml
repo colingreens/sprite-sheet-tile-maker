@@ -1,0 +1,124 @@
+output_file = "C:/Software/Defold/Resonator/asset/sprites/cat/cat_atlas.png"
+
+target_frame_width = 64
+target_frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_idle.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_run.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_dash.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_roll.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_long_roll.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_spin.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_pull.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_push.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_climb_ladder.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_jump.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_double_jump.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_long_double_jump.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_wall_slide.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_ledge_grab_idle.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_ledge_grab.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_fall.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_attack.png"
+frame_width = 64
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_attack_2.png"
+frame_width = 64
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_attack_special.png"
+frame_width = 64
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_jump_attack.png"
+frame_width = 64
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_ranged_attack.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_jump_ranged_attack.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_take_damage.png"
+frame_width = 32
+frame_height = 32
+
+[[sheets]]
+path = "C:/Users/colin/OneDrive/Desktop/CatCharacterAnimations1.1/CatCharacterAnimations1.1/SpriteSheets/cat_death.png"
+frame_width = 32
+frame_height = 32
