@@ -4,21 +4,21 @@ target_frame_width = 96
 target_frame_height = 96
 
 [[sheets]]
-path = "C:/Users/Colin/Desktop/Assets/female_knight_idle.png"
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight_idle.png"
 frame_width = 82
 frame_height = 45
 
 [[sheets]]
-path = "C:/Users/Colin/Desktop/Assets/female_knight_idle_to_walk.png"
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight_idle_to_walk.png"
 frame_width = 82
 frame_height = 45
 
 [[sheets]]
-path = "C:/Users/Colin/Desktop/Assets/female_knight_walk.png"
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight_walk.png"
 frame_width = 82
 frame_height = 45
 
 [[sheets]]
-path = "C:/Users/Colin/Desktop/Assets/female_knight_attack.png"
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight_attack.png"
 frame_width = 82
 frame_height = 45
