@@ -1,24 +1,84 @@
-output_file = "C:/Software/Defold/Resonator/asset/sprites/female_knight/female_knight_atlas.png"
+output_file = "C:/Users/Colin/Documents/code/Resonator/asset/sprites/female_knight/female_knight_atlas.png"
 
 target_frame_width = 96
 target_frame_height = 96
 
 [[sheets]]
-path = "C:/Users/Colin/Documents/assets/female_knight/female_knight_idle.png"
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/idle.png"
 frame_width = 82
 frame_height = 45
 
 [[sheets]]
-path = "C:/Users/Colin/Documents/assets/female_knight/female_knight_idle_to_walk.png"
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/idle_to_walk.png"
 frame_width = 82
 frame_height = 45
 
 [[sheets]]
-path = "C:/Users/Colin/Documents/assets/female_knight/female_knight_walk.png"
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/walk.png"
 frame_width = 82
 frame_height = 45
 
 [[sheets]]
-path = "C:/Users/Colin/Documents/assets/female_knight/female_knight_attack.png"
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/jump.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/jump_to_idle.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/jump_to_walk.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/hop_back.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/hop_to_idle.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/hop_to_walk.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/atk_power.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/atk_quick.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/atk_to_idle.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/atk_to_walk.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/atk_combo.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/atk_combo_to_idle.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/atk_combo_to_walk.png"
 frame_width = 82
 frame_height = 45

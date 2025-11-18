@@ -1,34 +1,84 @@
-output_file = "C:/Users/Colin/Documents/code/Resonator/asset/sprites/enemy/experiment_z9/zomb_dog.png"
+output_file = "C:/Users/Colin/Documents/code/Resonator/asset/sprites/female_knight/female_knight_atlas.png"
 
-target_frame_width = 160
-target_frame_height = 112
-
-[[sheets]]
-path = "C:/Users/Colin/Documents/assets/sthings_monsters/ExperimentZ #9/experiment_z9/idle.png"
-frame_width = 160
-frame_height = 112
+target_frame_width = 96
+target_frame_height = 96
 
 [[sheets]]
-path = "C:/Users/Colin/Documents/assets/sthings_monsters/ExperimentZ #9/experiment_z9/move.png"
-frame_width = 160
-frame_height = 112
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/idle.png"
+frame_width = 82
+frame_height = 45
 
 [[sheets]]
-path = "C:/Users/Colin/Documents/assets/sthings_monsters/ExperimentZ #9/experiment_z9/death.png"
-frame_width = 160
-frame_height = 112
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/idle_to_walk.png"
+frame_width = 82
+frame_height = 45
 
 [[sheets]]
-path = "C:/Users/Colin/Documents/assets/sthings_monsters/ExperimentZ #9/experiment_z9/eat.png"
-frame_width = 160
-frame_height = 112
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/walk.png"
+frame_width = 82
+frame_height = 45
 
 [[sheets]]
-path = "C:/Users/Colin/Documents/assets/sthings_monsters/ExperimentZ #9/experiment_z9/attack_1.png"
-frame_width = 160
-frame_height = 112
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/jump.png"
+frame_width = 82
+frame_height = 45
 
 [[sheets]]
-path = "C:/Users/Colin/Documents/assets/sthings_monsters/ExperimentZ #9/experiment_z9/attack_2.png"
-frame_width = 160
-frame_height = 112
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/jump_to_idle.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/jump_to_walk.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/hop_back.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/hop_to_idle.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/hop_to_walk.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/atk_power.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/atk_quick.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/atk_to_idle.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/atk_to_walk.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/atk_combo.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/atk_combo_to_idle.png"
+frame_width = 82
+frame_height = 45
+
+[[sheets]]
+path = "C:/Users/Colin/Documents/assets/female_knight/female_knight/atk_combo_to_walk.png"
+frame_width = 82
+frame_height = 45
